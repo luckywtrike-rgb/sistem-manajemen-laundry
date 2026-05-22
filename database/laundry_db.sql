@@ -1,8 +1,5 @@
 -- ============================================================
 -- DATABASE: Sistem Manajemen Laundry
--- Tim: Kelompok [ISI NAMA KELOMPOK]
--- Jurusan Ilmu Komputer - UNNES 2025/2026
--- Deskripsi: Database terintegrasi untuk operasional laundry
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS laundry_db
